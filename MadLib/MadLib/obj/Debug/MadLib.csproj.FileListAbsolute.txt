@@ -1,0 +1,8 @@
+C:\Users\cyber\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe.config
+C:\Users\cyber\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe
+C:\Users\cyber\source\repos\MadLib\MadLib\bin\Debug\MadLib.pdb
+C:\Users\cyber\source\repos\MadLib\MadLib\obj\Debug\MadLib.csproj.AssemblyReference.cache
+C:\Users\cyber\source\repos\MadLib\MadLib\obj\Debug\MadLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\cyber\source\repos\MadLib\MadLib\obj\Debug\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\cyber\source\repos\MadLib\MadLib\obj\Debug\MadLib.exe
+C:\Users\cyber\source\repos\MadLib\MadLib\obj\Debug\MadLib.pdb
