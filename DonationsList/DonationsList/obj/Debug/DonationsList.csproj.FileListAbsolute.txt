@@ -1,0 +1,11 @@
+C:\Users\cyber\source\repos\DonationsList\DonationsList\bin\Debug\DonationsList.exe.config
+C:\Users\cyber\source\repos\DonationsList\DonationsList\bin\Debug\DonationsList.exe
+C:\Users\cyber\source\repos\DonationsList\DonationsList\bin\Debug\DonationsList.pdb
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.csproj.AssemblyReference.cache
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.csproj.SuggestedBindingRedirects.cache
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.DonationsList.resources
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.Properties.Resources.resources
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.csproj.GenerateResource.cache
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.csproj.CoreCompileInputs.cache
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.exe
+C:\Users\cyber\source\repos\DonationsList\DonationsList\obj\Debug\DonationsList.pdb
