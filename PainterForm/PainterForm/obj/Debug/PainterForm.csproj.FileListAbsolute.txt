@@ -1,0 +1,11 @@
+C:\Users\cyber\source\repos\PainterForm\PainterForm\bin\Debug\PainterForm.exe.config
+C:\Users\cyber\source\repos\PainterForm\PainterForm\bin\Debug\PainterForm.exe
+C:\Users\cyber\source\repos\PainterForm\PainterForm\bin\Debug\PainterForm.pdb
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.AssemblyReference.cache
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.Form1.resources
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.Properties.Resources.resources
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.GenerateResource.cache
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.csproj.CoreCompileInputs.cache
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.exe
+C:\Users\cyber\source\repos\PainterForm\PainterForm\obj\Debug\PainterForm.pdb
